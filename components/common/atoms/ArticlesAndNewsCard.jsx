@@ -5,7 +5,7 @@ export default function ArticlesAndNewsCard({ item }) {
     <div className="space-y-8">
       <Image
         key={item.id}
-        src={"/" + item.articleImage}
+        src={"/articlesandnews/" + item.articleImage}
         alt="episode"
         width={5000}
         height={0}

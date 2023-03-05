@@ -5,7 +5,7 @@ export default function RecentEpisodeCard({ item }) {
     <div className="space-y-8">
       <Image
         key={item.id}
-        src={"/" + item.episodeImage}
+        src={"/recentEpisodes/" + item.episodeImage}
         alt="episode"
         width={5000}
         height={0}

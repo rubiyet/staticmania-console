@@ -43,4 +43,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Future Scope
 
-1. Mobile access: The "eresult" repository could be made accessible through mobile devices, making it easier for teachers, students, and parents to access student academic performance data on-the-go.
+1. The "staticmania-console" repository could be made accessible through mobile devices, making it easier for users.
